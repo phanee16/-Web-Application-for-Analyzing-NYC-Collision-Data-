@@ -1,6 +1,7 @@
 # -Web-Application-for-Analyzing-NYC-Collision-Data-
 
-![image](https://user-images.githubusercontent.com/47351536/229380004-1dc46318-85cb-4576-95fd-b7e07eefa4a6.png)
+<img width="1012" alt="image" src="https://user-images.githubusercontent.com/47351536/229380029-5ff91ee2-7c7e-4091-93cb-31152ee85554.png">
+
 
 
 Our team built a cutting-edge web application on NYC Collision Analysis, leveraging Python, Streamlit, PyDeck, Google Cloud Platform, BigQuery, SQL, and Looker Studio. Using advanced data analysis techniques, we extracted and processed extensive collision data from NYC Open Data, storing it in GCP BigQuery. We then used Looker Studio to create interactive visualizations that showcased the insights we gained from our analysis.
